@@ -11,12 +11,12 @@ For more inf ormat ion, please check T uya Developer Websit e.
 ### python自开发
 
 通过python开发电脑上位机，获取电脑内存、网速、CPU使用、备忘设置，主要适配办公场景，主要界面如下：
-![Image.png](//image.lceda.cn/pullimage/9wAFTwxG56UlXuPjKlDx04yUg0j38WFBQCnKvUVD.png)
+![Image.png](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/python.png)
 
 ### 开源软件Vousforte
 
 电脑软件信息获取更加全面，增加了CPU和GPU温度等内容，无法进行备忘设置功能，将会适配游戏显示界面。主界面如下：
-![Image 2.png](//image.lceda.cn/pullimage/4UdOpqJ5YEKXkv459R9kpyEiCeXbs4D59uBjiczy.png)
+![Image 2.png](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/Vousforte.png)
 
 ## 板载功能
 
@@ -51,7 +51,5 @@ For more inf ormat ion, please check T uya Developer Websit e.
 
 ## 相关渲染图
 
-![IMG_L.png](//image.lceda.cn/pullimage/N9RrBm9iRADysLBEKjHgqWJwiZTgK1cxYP6NYu90.png)
-![TUYA.jpg](//image.lceda.cn/pullimage/8EF9RQE6MOTRThJTmKnY9XDrWpQYS9LOYSPJHiVC.jpeg)
-![95d588c7e3053530be947eefd18dafd.png](//image.lceda.cn/pullimage/HPGuhYf5It5zawss2FPLzKtujtLWyvElfpgqXKen.png)
-![镜面.png](//image.lceda.cn/pullimage/NvxC2nODZgpOfNMQ7jHXSXXbztCmByMb2Tp74NBd.png)
+![TUYA.jpg](https://github.com/justp7/Tuya_DesktopAssistant/tree/main/Img/PCB.png)
+![镜面.png](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/NewYear.png)
