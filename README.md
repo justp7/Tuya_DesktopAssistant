@@ -42,14 +42,9 @@ For more inf ormat ion, please check T uya Developer Websit e.
 
 ## 屏幕开发
 
-屏幕采用迪文科技03W，采用DGUS开发，现已完成相关界面的部分开发。主界面如图，其他界面暂不放出。
-![Image 3.png](//image.lceda.cn/pullimage/joxN5CBLxzKx6gykXDegQpIjnz82ehvaODJT7tdW.png)
-
-## 手机端APP开发
-
-待完善。。。。
+屏幕采用迪文科技03W，采用DGUS开发，现已完成相关界面的部分开发。
 
 ## 相关渲染图
 
-![TUYA.jpg](https://github.com/justp7/Tuya_DesktopAssistant/tree/main/Img/PCB.png)
+![TUYA.jpg](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/CB.png)
 ![镜面.png](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/NewYear.png)
