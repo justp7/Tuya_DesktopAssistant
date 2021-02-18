@@ -46,5 +46,5 @@ For more inf ormat ion, please check T uya Developer Websit e.
 
 ## 相关渲染图
 
-![TUYA.jpg](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/CB.png)
+![TUYA.jpg](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/PCB.png)
 ![镜面.png](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/NewYear.png)
