@@ -2,9 +2,8 @@
 基于涂鸦智能WIFI模块的桌面助手，MCU开发
 
 ## Readme
-This project is developed using T uya SDK, which enables you t o quickly develop branded
-apps connect ing and cont rolling smart scenarios of many devices.
-For more inf ormat ion, please check T uya Developer Websit e.
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.
+For more information, please check Tuya Developer Website.
 
 ## 上位机功能
 
