@@ -35,10 +35,31 @@ For more information, please check Tuya Developer Website.
 
 获取环境亮度并进行屏幕的自动亮度调节。
 
-### NT3H1101 NFC模块
+## 功能介绍
 
-通过IIC接口进行数据通讯，预计功能是实现上下班打卡。待完善。。
+### 天气获取显示 🌻
 
+通过涂鸦SDK天气接口，获取天气信息并解析。天气信息每半小时下发一次。
+
+### 设备操控 💡
+
+通过涂鸦设备联动功能，即可实现对涂鸦所有设备的操作功能。本项目测试使用的是涂鸦智能灯💡，可实现开关💡，模式设置等功能。
+
+### 电脑状态显示 💻
+
+通过python上位机获取电脑CPU、内存、网络运行情况，通过蓝牙串口发送到桌面端，进行解析显示。
+
+### 温湿度获取 📈
+
+温湿度通过SHT30进行测量，STM32定时检测，检测完成后将数据上报云平台。
+
+### 备忘设置 📃
+
+通过电脑pythn上位机可进行4条备忘设置，支持修改完成/未完成情况。
+
+### 游戏界面 🎰
+
+通过开源的Vousforte软件，通过蓝牙串口将数据发送到桌面端，桌面端获取数据后进行解析，解析后显示在屏幕上。
 ## 屏幕开发
 
 屏幕采用迪文科技03W，采用DGUS开发，现已完成相关界面的部分开发。
@@ -47,3 +68,7 @@ For more information, please check Tuya Developer Website.
 
 ![TUYA.jpg](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/PCB.png)
 ![镜面.png](https://github.com/justp7/Tuya_DesktopAssistant/blob/main/Img/NewYear.png)
+
+## 相关链接🔗
+[硬件开源地址](https://oshwhub.com/LC717863696/wen-shi-du-zhuo-mian-zhu-shou)
+[演示视频地址](https://www.bilibili.com/video/BV1ky4y1a7U3)
